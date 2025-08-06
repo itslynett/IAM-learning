@@ -73,6 +73,3 @@ No prior experience with IAM is required. This lab is beginner-friendly and suit
 
 ---
 
-## 📎 Notes
-Feel free to fork this repo and customize the lab for your team or training sessions. Contributions and improvements are welcome!
-
